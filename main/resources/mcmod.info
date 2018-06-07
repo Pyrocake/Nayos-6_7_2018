@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nm",
+  "name": "Nayos",
+  "description": "Administratorum sphaera omnium. Manipulate latent energies in (almost) everything!",
+  "version": "0.1.5.5",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Booktail"],
+  "credits": "Those who sat through my rambling about this",
+  "logoFile": "/modimage.png",
+  "screenshots": [],
+  "dependencies": [  "mod_MinecraftForge" ]
+}
+]

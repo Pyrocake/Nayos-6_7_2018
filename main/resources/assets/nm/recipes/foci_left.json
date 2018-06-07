@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#C#",
+        "g  "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_nugget"
+        },
+        "C": [
+        {
+        "item": "minecraft:coal",
+        "data": 0
+        },
+        {
+        "item": "minecraft:coal",
+        "data": 1
+        }
+        ],
+        "g": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "nm:foci_left",
+        "count": 1
+    }
+}

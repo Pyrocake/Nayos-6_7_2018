@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "iii",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "nm:nativus_ingot"
+        }
+    },
+    "result": {
+        "item": "nm:nativus_block",
+        "count": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "nm:blocks/nativus_craft_side",
+        "down": "nm:blocks/nativus_structure_topdown",
+        "up": "nm:blocks/nativus_structure_topdown",
+        "north": "nm:blocks/nativus_craft_side",
+        "east": "nm:blocks/nativus_craft_side",
+        "south": "nm:blocks/nativus_craft_side",
+        "west": "nm:blocks/nativus_craft_side"
+    }
+}

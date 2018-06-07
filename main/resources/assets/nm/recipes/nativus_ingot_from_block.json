@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+    {
+      "item": "nm:nativus_block",
+      "data": 0
+    }
+
+  ],
+  "result": {
+    "item": "nm:nativus_ingot",
+    "count": 9,
+    "data": 0
+  }
+}

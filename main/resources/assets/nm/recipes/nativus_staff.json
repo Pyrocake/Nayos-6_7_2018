@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #D",
+        " gG",
+        "g  "
+    ],
+    "key": {
+        "#": {
+            "item": "nm:foci_left"
+        },
+        "D": {
+            "item": "nm:nativus_ingot"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "G": {
+            "item": "nm:foci_right"
+        }
+    },
+    "result": {
+        "item": "nm:nativus_staff",
+        "count": 1
+    }
+}

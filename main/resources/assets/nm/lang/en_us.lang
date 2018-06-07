@@ -1,0 +1,21 @@
+//Items
+item.nativus_ingot.name=Nativium Ingot
+item.nativus_staff.name=Nativium Staff
+item.foci_left.name=Left Nativus Foci
+item.foci_right.name=Right Nativus Foci
+item.resonant_plate.name=Resonant Plate
+
+//Blocks
+tile.nativus_ore_block.name=Nativium Ore
+tile.nativus_block.name=Block of Nativium
+tile.nativus_crucible_block.name=Nativium Crucible
+tile.nativus_craft_base_block.name=Nativus Forge
+tile.nativus_tuner_block.name=Nativus Tuner
+tile.nativus_structure_block.name=Nativium Structure Block
+tile.nativus_port_block.name=Nativus Essence Translocator
+
+//Tabs
+itemGroup.nayostab=Nayos Adds.
+
+//Other
+container.NativusForge=Nativus Forge

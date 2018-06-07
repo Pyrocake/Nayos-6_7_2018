@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "nm:nativus_crucible_block" }
+        
+    }
+}

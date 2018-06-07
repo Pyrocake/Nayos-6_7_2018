@@ -1,0 +1,12 @@
+{
+    "variants": 
+    {
+        "burning=false,facing=north": { "model": "nm:nativus_craft_base_block" },
+        "burning=false,facing=east": { "model": "nm:nativus_craft_base_block", "y": 90 },
+        "burning=false,facing=south": { "model": "nm:nativus_craft_base_block", "y": 180 },
+        "burning=false,facing=west": { "model": "nm:nativus_craft_base_block", "y": 270 },
+        "burning=true,facing=north": { "model": "nm:nativus_craft_lit_base_block" },
+        "burning=true,facing=east": { "model": "nm:nativus_craft_lit_base_block", "y": 90 },
+        "burning=true,facing=south": { "model": "nm:nativus_craft_lit_base_block", "y": 180 },
+        "burning=true,facing=west": { "model": "nm:nativus_craft_lit_base_block", "y":270  }
+    }}
